@@ -55,7 +55,7 @@
         "cursorColor": "#FFFFFF",
         "fontFace": "FiraMono Nerd Font",
         "fontSize": 15,
-        "guid": "{2e3db9b4-3d97-4f61-a49c-7274e912aae1}",
+        "guid": "{00000000-0000-0000-ba54-000000000002}",
         "historySize": 9001,
         "icon": "%PROGRAMFILES%\\git\\mingw64\\share\\git\\git-for-windows.ico",
         "name": "Git Bash",
