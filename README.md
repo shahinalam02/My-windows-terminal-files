@@ -1,1 +1,4 @@
-# My-windows-terminal-files
+MY windows terminal customaize files 
+setting.js
+theme.js
+module
